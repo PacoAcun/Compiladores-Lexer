@@ -1,0 +1,8 @@
+int x = 5 + 10;
+float y = x * 2.0;
+y = y / (x - 1);
+if (x > y) {
+    y = y - 1;
+} else {
+    y = y + 1;
+}
