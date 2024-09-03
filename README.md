@@ -23,7 +23,7 @@ Este proyecto implementa un scanner sencillo en Java que es capaz de identificar
 
 ## Ejemplo de `output.txt`
 
-Para el contenido de `input.txt` mostrado anteriormente, el archivo `output.txt` podría verse así:
+Para el contenido de `input.txt`, el archivo `output.txt` podría verse así:
 
 ```plaintext
 Token(type=3, value="int", line=1, column=1)
